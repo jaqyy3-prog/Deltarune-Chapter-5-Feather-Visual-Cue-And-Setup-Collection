@@ -31,5 +31,5 @@
  <summary>Full jump at the black line in the flower</summary>
  <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/png/cliffs4.png" width height="200"/>
  <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/webp/cliffs4.webp" width="384" height="288"/>
- <summary>Start holding left when the soul is below this cue and get a good amount of coyote frames before full jumping</summary>
+ <summary>Start holding left when the soul is past this cue and get a good amount of coyote frames before full jumping</summary>
 </details>
