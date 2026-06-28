@@ -78,6 +78,11 @@
 </details>
 
 <details>
+ <summary>Fist room</summary>
+  <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/png/castleright4.png"  width="384" height="288"/>
+ <summary>Full jump at cue</summary>
+</details>
+<details>
   <summary>Knife wheel room</summary>
   <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/webp/castleright5.webp" width="384" height="288"/>
  <summary>Drop and then jump to dodge the first wheel</summary>
