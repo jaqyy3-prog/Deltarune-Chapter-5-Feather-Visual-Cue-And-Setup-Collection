@@ -28,7 +28,12 @@ This is a compilation of visual cues or setups that I personally use throughout 
 <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/webp/cliffs2.webp" width="384" height="288"/>
  <summary>Full jump+right at cue</summary>
 </details>
-
+<details>
+ <summary>Aqua-Seth Skip</summary>
+<img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/png/ass.png" width="384" height="288"/>
+<img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/webp/ass.webp" width="384" height="288"/>
+<summary> C+Right when the top of Ralsei's head is passing the floor of the ledge. Full jump left near the edge (don't go for coyote frames), then hold right</summary>
+</details>
 <details>
  <summary>Wind Room (no damage boost skip)</summary>
  <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/png/cliffs3.png" width="300" height="225"/>
