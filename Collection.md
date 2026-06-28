@@ -89,8 +89,6 @@
   <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/png/castleright6.png" width="384" height="288"/>
   <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/webp/castleright6.webp" width="384" height="288"/>
  <summary>Ralsei act at first line in wall, jump at second</summary>
-  <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/webp/castleright7.webp" width="384" height="288"/>
- <summary>Ralsei act ASAP, full jump at middle of walkway, ralsei act just before landing</summary>
 </details>
 
 # Top of Castle
