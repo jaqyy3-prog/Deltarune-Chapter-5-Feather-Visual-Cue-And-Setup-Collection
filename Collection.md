@@ -15,6 +15,7 @@ Full jump when Kris covers the corner created by the black and green backgrounds
 # Cliffs
 <details>
     <summary>Book Encounter Skip Room</summary>
-
+<img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/png/cliffs1.png" width="384" height="288"/>
 <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/webp/cliffs1.webp" width="384" height="288"/>
+ Full jump when Kris touches the left edge of this background wall
 </details>
