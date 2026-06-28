@@ -65,8 +65,8 @@ This is a compilation of visual cues or setups that I personally use throughout 
   <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/png/gunskip3.png"height="300" />
    <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/png/gunskip5.png" height="300"/>
   <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/png/gunskip4.png" height="300"/>
-   <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/webp/gunskip.webp" height="300"/>
  <summary>At each cue, stop holding left and release menu to land at the right spot.</summary>
+    <img src="https://github.com/jaqyy3-prog/Deltarune-Chapter-5-Feather-Visual-Cues/blob/main/webp/gunskip.webp" height="500"/>
 </details>
 <details>
  <summary>Punishment Room 2</summary>
